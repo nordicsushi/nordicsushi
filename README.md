@@ -34,16 +34,16 @@
   <tbody>
     <tr>
       <td align="center" valign="top">
-        <a href="INSERT_LINK_1">
+        <a href="https://github.com/nordicsushi/async-youtube-transcript">
           <img src="images/aysnc.png" width="80%" alt="Project 1">
         </a>
         <br />
-        <strong>Youscript</strong>
+        <strong><a href="https://github.com/nordicsushi/async-youtube-transcript">Youscript<a></strong>
         <br />
         <small>An asynchronous Youtube transcript downloader.</small>
       </td>
       <td align="center" valign="top">
-        <a href="INSERT_LINK_2">
+        <a href="https://github.com/nordicsushi/bili_up_finder">
           <img src="images/influencer.png" width="80%" alt="Project 2">
         </a>
         <br />
@@ -52,7 +52,7 @@
         <small>An AI-powered search engine to target relevant influencers.</small>
       </td>
       <td align="center" valign="top">
-        <a href="INSERT_LINK_3">
+        <a href="https://github.com/nordicsushi/shell-ai">
           <img src="images/shell.png" width="80%" alt="Project 3">
         </a>
         <br />
