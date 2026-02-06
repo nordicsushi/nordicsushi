@@ -19,7 +19,7 @@
 <br>
 
 <div align="center">
-  <img src="images/mycats.PNG" width="60%" alt="My cats">
+  <img src="images/mycats.PNG" width="50%" alt="My cats">
 </div>
 
 <div align="center">
