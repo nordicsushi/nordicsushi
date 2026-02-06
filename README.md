@@ -27,13 +27,83 @@ That said, if we ever reach a point where Markdown is the only language we use t
 | DevOps | ![AzureDevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white) ![GitHubActions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) |
 -->
 
+## Project Gallery
 
-## 💼 Projects
+<div align="center">
 
+### 🛠️ Project Gallery
 
-- **Sales‑AI‑Insights**: Deployment‑ready pipeline that forecasts SKUs & recommends upsells.
-- **LLM‑Chat‑Toolkit**: Framework of advanced prompts & utils for domain‑specific chatbots; 4k ⭐️ on GitHub.
-- **GNN‑Social‑Graph**: Graph neural net detecting influencer clusters; accepted at KDD ‘24 poster.
+<table role="table">
+  <thead>
+    <tr>
+      <th width="33%"></th>
+      <th width="33%"></th>
+      <th width="33%"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" valign="top">
+        <a href="INSERT_LINK_1">
+          <img src="https://via.placeholder.com/600x400" width="100%" alt="Project 1">
+        </a>
+        <br />
+        <strong>🚀 Project One</strong>
+        <br />
+        <small>Python • FastAPI • Azure</small>
+      </td>
+      <td align="center" valign="top">
+        <a href="INSERT_LINK_2">
+          <img src="https://via.placeholder.com/600x400" width="100%" alt="Project 2">
+        </a>
+        <br />
+        <strong>⚙️ Project Two</strong>
+        <br />
+        <small>Rust • Systems • CLI</small>
+      </td>
+      <td align="center" valign="top">
+        <a href="INSERT_LINK_3">
+          <img src="https://via.placeholder.com/600x400" width="100%" alt="Project 3">
+        </a>
+        <br />
+        <strong>📊 Project Three</strong>
+        <br />
+        <small>Snowflake • dbt • SQL</small>
+      </td>
+    </tr>
+        <tr>
+      <td align="center" valign="top">
+        <a href="INSERT_LINK_1">
+          <img src="https://via.placeholder.com/600x400" width="100%" alt="Project 1">
+        </a>
+        <br />
+        <strong>🚀 Project One</strong>
+        <br />
+        <small>Python • FastAPI • Azure</small>
+      </td>
+      <td align="center" valign="top">
+        <a href="INSERT_LINK_2">
+          <img src="https://via.placeholder.com/600x400" width="100%" alt="Project 2">
+        </a>
+        <br />
+        <strong>⚙️ Project Two</strong>
+        <br />
+        <small>Rust • Systems • CLI</small>
+      </td>
+      <td align="center" valign="top">
+        <a href="INSERT_LINK_3">
+          <img src="https://via.placeholder.com/600x400" width="100%" alt="Project 3">
+        </a>
+        <br />
+        <strong>📊 Project Three</strong>
+        <br />
+        <small>Snowflake • dbt • SQL</small>
+      </td>
+    </tr>
+    </tbody>
+</table>
+
+</div>
 
 
 <!--
