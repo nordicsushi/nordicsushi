@@ -35,61 +35,31 @@
     <tr>
       <td align="center" valign="top">
         <a href="INSERT_LINK_1">
-          <img src="https://via.placeholder.com/600x400" width="100%" alt="Project 1">
+          <img src="images/aysnc.png" width="100%" alt="Project 1">
         </a>
         <br />
-        <strong>🚀 Project One</strong>
+        <strong>Youscript</strong>
         <br />
-        <small>Python • FastAPI • Azure</small>
+        <small>An asynchronous Youtube transcript downloader.</small>
       </td>
       <td align="center" valign="top">
         <a href="INSERT_LINK_2">
-          <img src="https://via.placeholder.com/600x400" width="100%" alt="Project 2">
+          <img src="images/influencer.png" width="100%" alt="Project 2">
         </a>
         <br />
-        <strong>⚙️ Project Two</strong>
+        <strong>Influencer Radar</strong>
         <br />
-        <small>Rust • Systems • CLI</small>
+        <small>An AI-powered search engine to target relevant influencers.</small>
       </td>
       <td align="center" valign="top">
         <a href="INSERT_LINK_3">
-          <img src="https://via.placeholder.com/600x400" width="100%" alt="Project 3">
+          <img src="images/shell.png" width="100%" alt="Project 3">
         </a>
         <br />
-        <strong>📊 Project Three</strong>
+        <strong>Shell.AI</strong>
         <br />
-        <small>Snowflake • dbt • SQL</small>
+        <small>A shell built in rust that translates natural language into bash command.</small>
       </td>
-    </tr>
-        <tr>
-      <td align="center" valign="top">
-        <a href="INSERT_LINK_1">
-          <img src="https://via.placeholder.com/600x400" width="100%" alt="Project 1">
-        </a>
-        <br />
-        <strong>🚀 Project One</strong>
-        <br />
-        <small>Python • FastAPI • Azure</small>
-      </td>
-      <td align="center" valign="top">
-        <a href="INSERT_LINK_2">
-          <img src="https://via.placeholder.com/600x400" width="100%" alt="Project 2">
-        </a>
-        <br />
-        <strong>⚙️ Project Two</strong>
-        <br />
-        <small>Rust • Systems • CLI</small>
-      </td>
-      <td align="center" valign="top">
-        <a href="INSERT_LINK_3">
-          <img src="https://via.placeholder.com/600x400" width="100%" alt="Project 3">
-        </a>
-        <br />
-        <strong>📊 Project Three</strong>
-        <br />
-        <small>Snowflake • dbt • SQL</small>
-      </td>
-    </tr>
     </tbody>
 </table>
 
