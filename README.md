@@ -5,15 +5,15 @@
 ---
 <div align="center">
 
-## About Me
+<h2>About Me</h2>
 </div>
-<p>I love building software. To me, building things is the only way to turn ideas into something real and make a difference in the world.</p>
+<p><big>I love building software. To me, building things is the only way to turn ideas into something real and make a difference in the world.</big></p>
 
-<p>I mostly build in Python, but lately, I’ve been learning Rust—partly because Rust is quietly powering much of the modern Python ecosystem, and partly because I enjoy a good intellectual challenge. In an age where “vibe coding” with AI is taking over, wrestling with Rust feels like a refreshing workout for the brain.</p>
+<p><big>I mostly build in Python, but lately, I’ve been learning Rust—partly because Rust is quietly powering much of the modern Python ecosystem, and partly because I enjoy a good intellectual challenge. In an age where “vibe coding” with AI is taking over, wrestling with Rust feels like a refreshing workout for the brain.</big></p>
 
-<p>When it comes to AI, I use it at work to boost efficiency (with careful review, of course), but I avoid it in my side projects. I still genuinely enjoy coding by hand—digging through documentation, figuring things out, and feeling that little spark when something finally works.</p>
+<p><big>When it comes to AI, I use it at work to boost efficiency (with careful review, of course), but I avoid it in my side projects. I still genuinely enjoy coding by hand—digging through documentation, figuring things out, and feeling that little spark when something finally works.</big></p>
 
-<p>That said, if we ever reach a point where Markdown is the only language we use to “code,” I might hang up my keyboard and become a carpenter—building cat trees for my three cats instead of software.</p>
+<p><big>That said, if we ever reach a point where Markdown is the only language we use to “code,” I might hang up my keyboard and become a carpenter—building cat trees for my three cats instead of software.</big></p>
 
 
 <br>
@@ -21,7 +21,7 @@
 
 <div align="center">
 
-## Projects
+<h2>Projects</h2>
 
 <table role="table">
   <thead>
