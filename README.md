@@ -17,7 +17,10 @@
 
 <p><big>That said, if we ever reach a point where Markdown is the only language we use to “code,” I might hang up my keyboard and become a carpenter—building cat trees for my three cats instead of software.</big></p>
 <br>
-<img src="images/mycats.PNG" width="70%" height="70%">
+<div style="text-align: center;">
+<img src="images/mycats.PNG" width="60%" height="60%">
+</div>
+
 <div align="center">
 
 <h2>Projects</h2>
