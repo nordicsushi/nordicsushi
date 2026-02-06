@@ -18,9 +18,11 @@
 <p><big>That said, if we ever reach a point where Markdown is the only language we use to “code,” I might hang up my keyboard and become a carpenter—building cat trees for my three cats instead of software.</big></p>
 <br>
 
-<div style="text-align: center;">
-<img src="images/mycats.PNG" width="60%" height="60%">
+<div align="center">
+  <img src="images/mycats.PNG" width="60%" alt="My cats">
 </div>
+
+<div align="center">
 
 <h2>Projects</h2>
 
@@ -39,7 +41,7 @@
           <img src="images/aysnc.png" width="80%" alt="Project 1">
         </a>
         <br />
-        <strong><a href="https://github.com/nordicsushi/async-youtube-transcript">Youscript<a></strong>
+        <strong><a href="https://github.com/nordicsushi/async-youtube-transcript">Youscript</a></strong>
         <br />
         <small>An asynchronous Youtube transcript downloader.</small>
       </td>
@@ -48,7 +50,7 @@
           <img src="images/influencer.png" width="80%" alt="Project 2">
         </a>
         <br />
-        <strong><a href="https://github.com/nordicsushi/bili_up_finder">Influencer Radar<a></strong>
+        <strong><a href="https://github.com/nordicsushi/bili_up_finder">Influencer Radar</a></strong>
         <br />
         <small>An AI-powered search engine to target relevant influencers.</small>
       </td>
