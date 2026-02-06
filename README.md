@@ -7,17 +7,18 @@
 
 <h2>About Me</h2>
 </div>
+<h3>I Enjoy Coding</h3>
 <p><big>I love building software. To me, building things is the only way to turn ideas into something real and make a difference in the world.</big></p>
 
 <p><big>I mostly build in Python, but lately, I’ve been learning Rust—partly because Rust is quietly powering much of the modern Python ecosystem, and partly because I enjoy a good intellectual challenge. In an age where “vibe coding” with AI is taking over, wrestling with Rust feels like a refreshing workout for the brain.</big></p>
 
-<p><big>When it comes to AI, I use it at work to boost efficiency (with careful review, of course), but I avoid it in my side projects. I still genuinely enjoy coding by hand—digging through documentation, figuring things out, and feeling that little spark when something finally works.</big></p>
+<h3>My Stance on Vibe Coding</h3>
+<p><big>When it comes to LLM, I use it at work to boost efficiency (with careful review, of course), but I avoid it in my side projects. I still genuinely enjoy coding by hand—digging through documentation, figuring things out, and feeling that little spark when something finally works.</big></p>
 
 <p><big>That said, if we ever reach a point where Markdown is the only language we use to “code,” I might hang up my keyboard and become a carpenter—building cat trees for my three cats instead of software.</big></p>
-
-
 <br>
 
+<img src="images/mycats.PNG">
 
 <div align="center">
 
@@ -66,23 +67,6 @@
 </div>
 
 
-<!--
-## 🤝 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN) [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:YOUR_EMAIL) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://YOUR_PORTFOLIO_URL)
-
-
-
-<details>
-<summary>📜 <strong>Résumé & Certifications</strong></summary>
-
-- 🗂️ **[Download My Résumé](https://example.com/resume.pdf)**
-- 📜 AWS Certified ML – Specialty (2024)
-- 📜 Azure Data Scientist Associate (2023)
-- 📜 TensorFlow Developer Certificate (2022)
-
-</details>
--->
 
 
 <p align="center">
