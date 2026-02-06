@@ -35,7 +35,7 @@
     <tr>
       <td align="center" valign="top">
         <a href="INSERT_LINK_1">
-          <img src="images/aysnc.png" width="100%" alt="Project 1">
+          <img src="images/aysnc.png" width="80%" alt="Project 1">
         </a>
         <br />
         <strong>Youscript</strong>
@@ -44,7 +44,7 @@
       </td>
       <td align="center" valign="top">
         <a href="INSERT_LINK_2">
-          <img src="images/influencer.png" width="100%" alt="Project 2">
+          <img src="images/influencer.png" width="80%" alt="Project 2">
         </a>
         <br />
         <strong>Influencer Radar</strong>
@@ -53,7 +53,7 @@
       </td>
       <td align="center" valign="top">
         <a href="INSERT_LINK_3">
-          <img src="images/shell.png" width="100%" alt="Project 3">
+          <img src="images/shell.png" width="80%" alt="Project 3">
         </a>
         <br />
         <strong>Shell.AI</strong>
