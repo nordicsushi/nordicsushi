@@ -4,9 +4,14 @@
 
 ---
 
-## 🚀 About Me
+## About Me
+I love building software. To me, building things is the only way to turn ideas into something real and make a difference in the world.
 
+I mostly build in Python, but lately, I’ve been learning Rust—partly because Rust is quietly powering much of the modern Python ecosystem, and partly because I enjoy a good intellectual challenge. In an age where “vibe coding” with AI is taking over, wrestling with Rust feels like a refreshing workout for the brain.
 
+When it comes to AI, I use it at work to boost efficiency (with careful review, of course), but I avoid it in my side projects. I still genuinely enjoy coding by hand—digging through documentation, figuring things out, and feeling that little spark when something finally works.
+
+That said, if we ever reach a point where Markdown is the only language we use to “code,” I might hang up my keyboard and become a carpenter—building cat trees for my three cats instead of software.
 
 
 <!--
@@ -26,11 +31,9 @@
 ## 💼 Projects
 
 
-**Sales‑AI‑Insights**: Deployment‑ready pipeline that forecasts SKUs & recommends upsells.
-**LLM‑Chat‑Toolkit**: Framework of advanced prompts & utils for domain‑specific chatbots; 4k ⭐️ on GitHub.
-**GNN‑Social‑Graph**: Graph neural net detecting influencer clusters; accepted at KDD ‘24 poster.
-
-> **Tip:** Pin these repos so they appear at the top of your GitHub profile.
+- **Sales‑AI‑Insights**: Deployment‑ready pipeline that forecasts SKUs & recommends upsells.
+- **LLM‑Chat‑Toolkit**: Framework of advanced prompts & utils for domain‑specific chatbots; 4k ⭐️ on GitHub.
+- **GNN‑Social‑Graph**: Graph neural net detecting influencer clusters; accepted at KDD ‘24 poster.
 
 
 <!--
