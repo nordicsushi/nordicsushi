@@ -47,7 +47,7 @@
           <img src="images/influencer.png" width="80%" alt="Project 2">
         </a>
         <br />
-        <strong>Influencer Radar</strong>
+        <strong><a href="https://github.com/nordicsushi/bili_up_finder">Influencer Radar<a></strong>
         <br />
         <small>An AI-powered search engine to target relevant influencers.</small>
       </td>
@@ -56,7 +56,7 @@
           <img src="images/shell.png" width="80%" alt="Project 3">
         </a>
         <br />
-        <strong>Shell.AI</strong>
+        <strong><a href="https://github.com/nordicsushi/shell-ai">Shell.AI</a></strong>
         <br />
         <small>A shell built in rust that translates natural language into bash command.</small>
       </td>
