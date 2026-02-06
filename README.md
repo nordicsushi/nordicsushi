@@ -3,35 +3,25 @@
 <h1 align="center">Hey there 👋</h1>
 
 ---
+<div align="center">
 
 ## About Me
-I love building software. To me, building things is the only way to turn ideas into something real and make a difference in the world.
+</div>
+<p>I love building software. To me, building things is the only way to turn ideas into something real and make a difference in the world.</p>
 
-I mostly build in Python, but lately, I’ve been learning Rust—partly because Rust is quietly powering much of the modern Python ecosystem, and partly because I enjoy a good intellectual challenge. In an age where “vibe coding” with AI is taking over, wrestling with Rust feels like a refreshing workout for the brain.
+<p>I mostly build in Python, but lately, I’ve been learning Rust—partly because Rust is quietly powering much of the modern Python ecosystem, and partly because I enjoy a good intellectual challenge. In an age where “vibe coding” with AI is taking over, wrestling with Rust feels like a refreshing workout for the brain.</p>
 
-When it comes to AI, I use it at work to boost efficiency (with careful review, of course), but I avoid it in my side projects. I still genuinely enjoy coding by hand—digging through documentation, figuring things out, and feeling that little spark when something finally works.
+<p>When it comes to AI, I use it at work to boost efficiency (with careful review, of course), but I avoid it in my side projects. I still genuinely enjoy coding by hand—digging through documentation, figuring things out, and feeling that little spark when something finally works.</p>
 
-That said, if we ever reach a point where Markdown is the only language we use to “code,” I might hang up my keyboard and become a carpenter—building cat trees for my three cats instead of software.
+<p>That said, if we ever reach a point where Markdown is the only language we use to “code,” I might hang up my keyboard and become a carpenter—building cat trees for my three cats instead of software.</p>
 
 
-<!--
-## 🛠️ Tech Stack & Tools
+<br>
 
-| Category | Stack |
-|----------|-------|
-| Languages | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) |
-| ML/DL | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
-| MLOps | ![AzureML](https://img.shields.io/badge/Azure_ML-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![K8s](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) |
-| Data | ![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![DeltaLake](https://img.shields.io/badge/Delta_Lake-00B3E6?style=for-the-badge&logo=databricks&logoColor=white) |
-| Monitoring | ![AppInsights](https://img.shields.io/badge/Azure_Application_Insights-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) |
-| DevOps | ![AzureDevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white) ![GitHubActions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) |
--->
-
-## Project Gallery
 
 <div align="center">
 
-### 🛠️ Project Gallery
+## Projects
 
 <table role="table">
   <thead>
