@@ -6,9 +6,7 @@
 
 ## 🚀 About Me
 
-- 🧑‍💻 **Machine Learning Engineer** with a passion for production‑ready AI systems
-- 🌱 I’m deepening my expertise in **MLOps, AI Agents, Data Pipeline, and Web Development**
-- ⚡ Fun fact: I have **three cats**—Sushi, Miso, and Milky 
+
 
 
 <!--
@@ -24,17 +22,16 @@
 | DevOps | ![AzureDevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white) ![GitHubActions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) |
 -->
 
-<!--
-## 💼 Highlight Projects
 
-| Project | Summary | Tech |
-|---------|---------|------|
-| **Sales‑AI‑Insights** | Deployment‑ready pipeline that forecasts SKUs & recommends upsells. Saved 12% promo spend. | AzureML · PyTorch · FastAPI |
-| **LLM‑Chat‑Toolkit** | Framework of advanced prompts & utils for domain‑specific chatbots; 4k ⭐️ on GitHub. | LangChain · OpenAI API |
-| **GNN‑Social‑Graph** | Graph neural net detecting influencer clusters; accepted at KDD ‘24 poster. | PyTorch Geometric |
+## 💼 Projects
+
+
+**Sales‑AI‑Insights**: Deployment‑ready pipeline that forecasts SKUs & recommends upsells.
+**LLM‑Chat‑Toolkit**: Framework of advanced prompts & utils for domain‑specific chatbots; 4k ⭐️ on GitHub.
+**GNN‑Social‑Graph**: Graph neural net detecting influencer clusters; accepted at KDD ‘24 poster.
 
 > **Tip:** Pin these repos so they appear at the top of your GitHub profile.
--->
+
 
 <!--
 ## 🤝 Connect with Me
