@@ -12,10 +12,10 @@
 
 <p><big>I mostly build in Python, but lately, I’ve been learning Rust—partly because Rust is quietly powering much of the modern Python ecosystem, and partly because I enjoy a good intellectual challenge. In an age where “vibe coding” with AI is taking over, wrestling with Rust feels like a refreshing workout for the brain.</big></p>
 
-<h3>My Stance on Vibe Coding</h3>
+<!-- <h3>My Stance on Vibe Coding</h3>
 <p><big>When it comes to LLM, I use it at work to boost efficiency (with careful review, of course), but I try to avoid it in my side projects(or only use it for learning by asking questions). I still genuinely enjoy coding by hand—digging through documentation, figuring things out, and feeling that little spark when something finally works.</big></p>
 
-<p><big>That said, if we ever reach a point where Markdown is the only language we use to “code,” I might hang up my keyboard and become a carpenter—building cat trees for my three cats instead of software.</big></p>
+<p><big>That said, if we ever reach a point where Markdown is the only language we use to “code,” I might hang up my keyboard and become a carpenter—building cat trees for my three cats instead of software.</big></p> -->
 <br>
 
 <div align="center">
